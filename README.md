@@ -1,5 +1,5 @@
 # Ex-04
-# DEMONSTRATION OF INTRUSION DETECTION SYSTEM(IDS) 
+# A.DEMONSTRATION OF INTRUSION DETECTION SYSTEM(IDS) 
  
 # AIM: 
          To demonstrate Intrusion Detection System (IDS) using Snort software tool. 
@@ -115,7 +115,7 @@ Snort monitoring traffic –
 
 
 
-  # EXPLORING N-STALKER, A VULNERABILITY ASSESSMENT TOOL 
+  # B.EXPLORING N-STALKER, A VULNERABILITY ASSESSMENT TOOL 
   
  # AIM: 
  To download the N-Stalker Vulnerability Assessment Tool and exploring the features. 
